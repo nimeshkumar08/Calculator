@@ -1,0 +1,42 @@
+.panelBody
+{
+    padding: 15px ;
+    background-color: #0000ff ;
+    border-radius: 15px ;
+    width: 300px !important;
+    align-items:center;
+    justify-content:center;
+  }
+  .rowPad
+  {
+    padding: 5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+  }
+  .inputCss
+  {
+    font-size: 12pt !important;
+    text-align: right !important;
+  }
+  .resultCss
+  {
+    font-size: 15pt !important;
+    text-align: right !important;
+    font-weight: bold !important;
+    color: #0000ff !important;
+  }
+  .heading
+  {
+    color: #fcfcfc ;
+    font-size:x-large;
+    text-align:center;
+    background: #141478;
+    padding:0.5cm;
+    border-radius: 10px;
+  }
+  .btn-primary
+  {
+    width:18%;
+  }
